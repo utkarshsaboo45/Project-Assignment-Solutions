@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project Assignment Solutions</string>
+    <string name="facebook_app_id">227200881817340</string>
+    <string name="sign_in_text">Sign in using one of the following</string>
+    <string name="welcome_text">Project Assignment Solution welcomes you</string>
+    <string name="authentication_failed_message">Seems like Authentication failed</string>
+    <string name="login_successful_message">Logged in successfully</string>
+    <string name="login_cancelled_message">Login cancelled</string>
+    <string name="logout_message">Logged Out Successfully</string>
+    <string name="data_not_fetched_message">Details could not be fetched</string>
+</resources>
